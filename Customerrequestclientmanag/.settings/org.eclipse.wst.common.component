@@ -8,8 +8,8 @@
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
                 
-        <property name="java-output-path" value="/Lab6Rest/build/classes"/>
-        <property name="context-root" value="Customerrequestclientmanag"/>
+        <property name="java-output-path" value="/Customerrequestclientmanag/build/classes"/>
+        <property name="context-root" value="Lab6Rest"/>
             
     </wb-module>
     
